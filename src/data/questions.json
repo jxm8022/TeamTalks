@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "id": 2,
+    "title": "How do you create a component in React?",
+    "answer": "You can create a component using a function or a class."
+  },
+  {
+    "id": 3,
+    "title": "What is JSX?",
+    "answer": "JSX is a syntax extension for JavaScript that looks similar to XML or HTML."
+  },
+  {
+    "id": 4,
+    "title": "What are props in React?",
+    "answer": "Props are inputs to components. They are data passed down from a parent component to a child component."
+  },
+  {
+    "id": 5,
+    "title": "What is state in React?",
+    "answer": "State is a built-in object that stores property values that belong to a component."
+  },
+  {
+    "id": 6,
+    "title": "How do you handle events in React?",
+    "answer": "You handle events in React using camelCase syntax and passing a function as the event handler."
+  },
+  {
+    "id": 7,
+    "title": "What is useState?",
+    "answer": "useState is a React Hook that lets you add state to functional components."
+  },
+  {
+    "id": 8,
+    "title": "What is useEffect?",
+    "answer": "useEffect is a React Hook that lets you perform side effects in function components."
+  },
+  {
+    "id": 9,
+    "title": "What is a key in React lists?",
+    "answer": "A key is a special string attribute you need to include when creating lists of elements."
+  },
+  {
+    "id": 10,
+    "title": "How do you pass data between components?",
+    "answer": "You pass data from parent to child using props."
+  },
+  {
+    "id": 11,
+    "title": "What is React Router?",
+    "answer": "React Router is a library for routing in React applications."
+  },
+  {
+    "id": 12,
+    "title": "What is context in React?",
+    "answer": "Context provides a way to pass data through the component tree without having to pass props down manually at every level."
+  },
+  {
+    "id": 13,
+    "title": "What is a controlled component?",
+    "answer": "A controlled component is an input form element whose value is controlled by React state."
+  },
+  {
+    "id": 14,
+    "title": "What is a pure component?",
+    "answer": "A pure component is a component that does not re-render if its props and state have not changed."
+  },
+  {
+    "id": 15,
+    "title": "What is Redux?",
+    "answer": "Redux is a predictable state container for JavaScript apps."
+  },
+  {
+    "id": 16,
+    "title": "What is a Higher-Order Component?",
+    "answer": "A Higher-Order Component is a function that takes a component and returns a new component."
+  },
+  {
+    "id": 17,
+    "title": "What is Prop Drilling?",
+    "answer": "Prop Drilling is the process of passing data from parent to child to grandchild and so on."
+  },
+  {
+    "id": 18,
+    "title": "What is memoization in React?",
+    "answer": "Memoization is an optimization technique to speed up rendering by caching the result of expensive function calls."
+  },
+  {
+    "id": 19,
+    "title": "What is lazy loading in React?",
+    "answer": "Lazy loading is a technique to load components only when they are needed."
+  },
+  {
+    "id": 20,
+    "title": "What is the virtual DOM?",
+    "answer": "The virtual DOM is a programming concept where a virtual representation of the UI is kept in memory and synced with the real DOM."
+  }
+]
