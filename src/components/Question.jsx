@@ -1,11 +1,10 @@
 import React from 'react';
-import { useParams, Link } from 'react-router-dom';
-import questions from '../data/questions.json';
+import { useLocation, Link } from 'react-router-dom';
 import './Home.css';
 
 const Question = () => {
-  const { id } = useParams();
-  const question = questions.find(q => q.id === Number(id));
+  const location = useLocation();
+  const question = location.state;
 
   if (!question) {
     return (
