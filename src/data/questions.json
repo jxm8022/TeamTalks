@@ -2,17 +2,38 @@
   {
     "id": 1,
     "title": "What is Canvas?",
-    "answer": "Canvas is a web application that allows EY auditors to manage and document their audit work in a structured and efficient manner."
+    "answer": [
+      {
+        "text": "Canvas is a <b>web application</b> that allows EY auditors to manage and document their audit work in a structured and efficient manner.",
+        "date": "2024-08-01",
+        "user": "Anonymous",
+        "upvotes": 0
+      }
+    ]
   },
   {
     "id": 2,
     "title": "How many developers are working on Canvas?",
-    "answer": "As of now, there are 210 developers working on Canvas."
+    "answer": [
+      {
+        "text": "As of now, there are <b>210 developers</b> working on Canvas.",
+        "date": "2024-08-01",
+        "user": "Anonymous",
+        "upvotes": 0
+      }
+    ]
   },
   {
     "id": 3,
     "title": "What is Hercules?",
-    "answer": "Hercules is a web.api project name which serves the middle layer for main canvas application."
+    "answer": [
+      {
+        "text": "Hercules is a <b>web.api project</b> name which serves the middle layer for main canvas application.",
+        "date": "2024-08-01",
+        "user": "Anonymous",
+        "upvotes": 0
+      }
+    ]
   },
     {
         "id": 4,
