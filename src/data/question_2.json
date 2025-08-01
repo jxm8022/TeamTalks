@@ -1,5 +1,20 @@
- [{
+[
+  {
     "id": 11,
-    "title": "what is EYK?",
-    "answer": "EYK is a EY Knowledge database that contains all audit rules required for engagement."
-  }]
+    "title": "What is EYK?",
+    "answer": [
+      {
+        "text": "EYK is a <b>EY Knowledge</b> database that contains all audit rules required for engagement.",
+        "date": "2024-08-01",
+        "user": "Dhananjay K",
+        "upvotes": 5
+      },
+      {
+        "text": "It is used as a source content DB for engagement DB.",
+        "date": "2024-08-02",
+        "user": "Jose M",
+        "upvotes": 2
+      }
+    ]
+  }
+]
